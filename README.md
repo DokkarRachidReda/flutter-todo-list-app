@@ -17,13 +17,13 @@ my first flutter project, a simple todo list app built with flutter and sqflite 
 
 ## Bugs tahat need to be fixed
 
-* RenderFlex overflowed by : a famous bug but i am lazy to fux it now
+* RenderFlex overflowed by : a famous bug but i am lazy to fix it now
 
 * make it responsive
 
 * add a button to remove a list
 
-* figure out somthing to complete the bottom navigation ,it contains only the home scren by now
+* figure out somthing to complete the bottom navigation ,it contains only the home screen by now
 
 
 BUT we both u and i know that i won't fix any of that
