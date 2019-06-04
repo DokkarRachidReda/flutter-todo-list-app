@@ -28,7 +28,7 @@ my first flutter project, a simple todo list app built with flutter and sqflite 
 
 BUT we both u and i know that i won't fix any of that
 
-## Contributing
+## Contribution
 
 feel free to contribute or to add something to the app .
 
